@@ -1,0 +1,2 @@
+# linebot_omikuji2
+linebot_omikujiの改良版です。７種類の結果からランダムに返します。
